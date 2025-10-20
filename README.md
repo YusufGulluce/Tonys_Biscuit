@@ -11,4 +11,6 @@
  - Game jam was officialy had a 1 week deadline after theme announce. However this project is done in five days.
  - No AI support is used in any development or designing process.
 
-   
+Notes:
+- Itch.io page: https://light-erkek.itch.io/tonys-biscuit
+- Build files are not best. May not open in every computer.
