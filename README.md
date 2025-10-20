@@ -7,7 +7,7 @@
    
  Development Details:
  - Made for 2025 Brecky Game Jam.
- - The first game jam entered.
+ - The first game jam entry.
  - Game jam was officialy had a 1 week deadline after theme announce. However this project is done in five days.
  - No AI support is used in any development or designing process.
 
